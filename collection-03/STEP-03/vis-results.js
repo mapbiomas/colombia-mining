@@ -4,7 +4,7 @@
  * STEP 03: TIME-SERIES VISUALIZATION GRID
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Generates a multi-panel UI grid to visually validate the
  *                mining classification or filtered outputs across the

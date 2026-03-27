@@ -4,7 +4,7 @@
  * STEP 04: INTEGRATION (JOIN COL2 + COL3) & MANUAL INCLUSIONS
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Integrates the base Collection 2 integration with the newly
  *                classified Collection 3 years. Applies manual spatio-temporal

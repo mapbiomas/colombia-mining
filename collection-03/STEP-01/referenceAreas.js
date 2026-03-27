@@ -4,7 +4,7 @@
  * STEP 01: REFERENCE AREAS
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Builds a reference mining mask by accumulating selected reference
  *                layers (mining titles, EVOA, CORINE, COMIMO, and stable Col2 pixels).

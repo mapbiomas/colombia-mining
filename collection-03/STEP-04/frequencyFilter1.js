@@ -4,7 +4,7 @@
  * STEP 04: FREQUENCY FILTER (CLASS 30)
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Applies a frequency filter to stabilize the mining class (30)
  *                across the time series. Pixels classified as mining in more than

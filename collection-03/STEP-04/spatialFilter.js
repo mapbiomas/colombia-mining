@@ -4,7 +4,7 @@
  * STEP 04: SPATIAL FILTER
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Applies a spatial filter to remove isolated pixels (salt & pepper).
  *                Pixels with fewer connected neighbors than the minimum threshold

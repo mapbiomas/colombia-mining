@@ -4,7 +4,7 @@
  * STEP 03: RANDOM FOREST CLASSIFICATION
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Trains a Random Forest classifier using Step 2 samples,
  *                optionally appends manual stable/non-stable samples on the fly,

@@ -4,7 +4,7 @@
  * STEP 08: FILTER AREA STATISTICS EXPORT
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Calculates and exports the total area (in hectares) for Class 30 
  * (Mining) across the baseline classification (Step 3) and all 

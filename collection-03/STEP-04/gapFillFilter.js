@@ -4,7 +4,7 @@
  * STEP 04: GAP-FILL FILTER
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Applies a bidirectional gap-fill to the classification time series.
  *                Masked pixels are filled forward from t0 to tn, then backward

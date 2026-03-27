@@ -4,7 +4,7 @@
  * STEP 04: TEMPORAL FILTER
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Applies sliding-window temporal filters (3-, 4-, and 5-year)
  *                to smooth isolated class changes in the time series. Also

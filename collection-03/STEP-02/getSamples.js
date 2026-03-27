@@ -4,7 +4,7 @@
  * STEP 02: EXTRACT TRAINING SAMPLES
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Generates stratified random samples for training the Random
  *                Forest classifier. Extracts feature-space values from annual

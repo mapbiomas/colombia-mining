@@ -4,7 +4,7 @@
  * STEP 04: TIME-SERIES VISUALIZATION GRID
  * ==============================================================================
  * @version       1.0
- * @update        December 2024
+ * @update        March 2026
  * @attribution   MapBiomas Colombia (Fundacion Gaia Amazonas)
  * @description   Generates a multi-panel UI grid to visually validate the
  *                mining classification or filtered outputs across the
@@ -42,14 +42,13 @@ var years = [
 // ==============================================================================
 // 2. IMPORTS & ASSETS
 // ==============================================================================
-
 var mapbiomasPalette = require('users/mapbiomas_caribe/public_repo_mbcolombia:mbcolombia-col3/modules/Palettes.js').get('ColombiaCol3');
 
 var basePath = 'projects/ee-mapbiomasdeveloper/assets/';
 var assets = {
   regions:          basePath + 'PUBLIC_ASSETS/AUXILIARY_DATA/VECTORS/MINING/Regiones_Mineria_2024_2',
   regionesMosaicos: basePath + 'PUBLIC_ASSETS/AUXILIARY_DATA/VECTORS/regiones-mosaicos-2024-buffer-250',
-  maskROI:          'projects/mapbiomas-colombia/assets/LULC/COLECCION3/TRANSVERSALES/MINERIA/STEP1_REGIONS/classification_mask/MINERIA-REF-ACCUM-' + param.country + '-' + param.regionCode + '-' + param.versionInput,
+  maskROI:          basePath + 'LULC/COLLECTION3/CROSS_CUTTING/MINING/STEP1_REGIONS/classification_mask/MINING-REF-ACCUM-' + param.country + '-' + param.regionCode + '-1',
   classifCO:        basePath + 'LULC/COLLECTION3/CROSS_CUTTING/MINING/clasificacion',
   classifCF:        basePath + 'LULC/COLLECTION3/CROSS_CUTTING/MINING/clasificacion-ft'
 };
